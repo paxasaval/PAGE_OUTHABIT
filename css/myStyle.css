@@ -1,0 +1,43 @@
+.hero-banner__content {
+  text-align: center;
+}
+.hero-banner__content p{
+  text-align: initial;
+}
+.hero-banner__content h1{
+  text-align: left;
+}
+.modal-title{
+  margin-bottom: 0;
+  line-height: 1.5;
+  color: #e97d14;
+}
+
+
+#subscribeModal .modal-content {
+  background-color: #303546;
+  color: #fff;
+  text-align: left;
+}
+
+#subscribeModal .modal-header, #subscribeModal .modal-footer {
+  border: 0;
+}
+
+#subscribeModal .close {
+  color: #fff;
+}
+
+#subscribeModal .form-control {
+  margin-top: 1rem;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+}
+
+#subscribeModal .form-control:focus {
+  border-color: #49506a;
+}
+
+
+
+/*VALASDOIHASFKJHÑLAKSFLÑJASÑL*/
